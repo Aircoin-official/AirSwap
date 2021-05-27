@@ -1,2 +1,2 @@
 # AirSwap
-Dex for $AIR
+Dex for AIR
